@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  width: 40px;
+  max-width: 1200px;
+  padding: 3px;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
